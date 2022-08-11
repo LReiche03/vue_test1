@@ -1,6 +1,6 @@
 <template>
   <navbar-component/>
-  <transition name="fade">
+  <transition  name="fade">
     <router-view></router-view>
   </transition>
 </template>

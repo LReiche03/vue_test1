@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Comp3</h1>
+    <h1>heh</h1>
     
   </div>
 </template>
@@ -25,5 +25,6 @@ export default {
   align-items: center;
   font-size: 60px;
   color: lightblue;
+  cursor: pointer;
 }
 </style>

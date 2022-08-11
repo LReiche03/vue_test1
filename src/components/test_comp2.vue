@@ -25,5 +25,6 @@ export default {
   align-items: center;
   font-size: 60px;
   color: white;
+  cursor: pointer;
 }
 </style>
